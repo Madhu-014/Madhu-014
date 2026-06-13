@@ -126,7 +126,7 @@ Stack     →  Next.js + FastAPI
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudhan-chandar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudhan-chandar-581b49309)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhusudhan.chandar@gmail.com)
 [![Elysium](https://img.shields.io/badge/Elysium-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://elysium-7k65.vercel.app)
 
