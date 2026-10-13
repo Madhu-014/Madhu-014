@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:A78BFA&height=240&section=header&text=Madhusudhan%20Chandar&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20LLM%20Security%20%C2%B7%20Cloud%20Security%20%C2%B7%20Edge%20AI&descAlignY=62&descSize=18&animation=twinkling" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&height=40&lines=Associate+Consultant+%40+Oracle+%E2%80%94+IAM+%26+OCI+Security;Built+Sentinel%3A+adversarial+LLM+firewall+with+14ms+CPU+inference;Elysium%3A+58.4%25+token+reduction+%C2%B7+94.8%25+semantic+fidelity;YOLOv11n+on+Qualcomm+6115+%26+Jetson+Nano+%E2%80%94+0.84+mAP%400.5;Red-teaming+LLMs.+Hardening+clouds.+Shipping+to+the+edge." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&height=40&lines=Cloud+Analyst+%40+Oracle+%E2%80%94+IAM+%26+OCI+Security;Built+Sentinel%3A+adversarial+LLM+firewall+with+14ms+CPU+inference;Elysium%3A+58.4%25+token+reduction+%C2%B7+94.8%25+semantic+fidelity;YOLOv11n+on+Qualcomm+6115+%26+Jetson+Nano+%E2%80%94+0.84+mAP%400.5;Red-teaming+LLMs.+Hardening+clouds.+Shipping+to+the+edge." alt="Typing SVG" /></a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Madhu-014&label=Profile%20Views&color=A78BFA&style=for-the-badge)
-![Location](https://img.shields.io/badge/Bengaluru-India-302b63?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Associate%20Consultant-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Cloud%20Analyst-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Open To](https://img.shields.io/badge/Interests-LLM%20Security%20%7C%20Edge%20AI-A78BFA?style=for-the-badge)
 
 </div>
@@ -19,8 +17,7 @@
 
 ```yaml
 name      : Madhusudhan Chandar
-role      : Associate Consultant @ Oracle (IAM & OCI Security)
-location  : Bengaluru, India
+role      : Cloud Analyst @ Oracle (IAM & OCI Security)
 education : B.E. CSE (AI & ML) · CMR Institute of Technology · CGPA 9.02 / 10
 focus     :
   - LLM Security & Adversarial Robustness
@@ -39,7 +36,7 @@ currently : Securing cloud tenancies by day, red-teaming LLM gateways by night
 <td width="140" align="center"><b>Jul 2026 – Now</b></td>
 <td>
 
-**Associate Consultant · Oracle**
+**Cloud Analyst · Oracle**
 - Own IAM and OCI security remediation for **Qatar Foundation** end to end, from design to implementation
 - Configured **OCI Cloud Guard** for continuous misconfiguration and threat detection, with posture dashboards for stakeholders
 - Python automation over **Oracle Fusion & PeopleSoft APIs** to audit BPM/SOA changes and validate segregation of duties, with auditor-ready reports
@@ -121,16 +118,6 @@ Telemetry         →  live CO2 / kWh
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🆘 [Aura-G4 — Offline Disaster Response AI](https://github.com/Madhu-014/Aura-G4)
-
-Fully offline multimodal disaster-response system, built solo for the Kaggle Gemma 4 Good Hackathon. Zero cloud dependency, runs entirely on a Mac M2.
-`Gemma 4` `Ollama` `DeBERTa LoRA` `ChromaDB` `Next.js` `FastAPI`
-
-</td>
-</tr>
 </table>
 
 ---
@@ -176,21 +163,6 @@ Fully offline multimodal disaster-response system, built solo for the Kaggle Gem
 ![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![IAM](https://img.shields.io/badge/OCI%20IAM-312D2A?style=for-the-badge&logo=oracle&logoColor=white)
 ![Cloud Guard](https://img.shields.io/badge/Cloud%20Guard-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhu-014&show_icons=true&theme=radical&hide_border=true&bg_color=0:0f0c29,100:302b63&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&ring_color=A78BFA" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhu-014&layout=compact&theme=radical&hide_border=true&bg_color=0:0f0c29,100:302b63&title_color=A78BFA&text_color=ffffff" />
-
-<img src="https://streak-stats.demolab.com?user=Madhu-014&theme=radical&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhu-014&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
