@@ -1,84 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Madhusudhan%20Chandar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Agentic%20AI%20%C2%B7%20LLM%20Security%20%C2%B7%20Computer%20Vision&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:A78BFA&height=240&section=header&text=Madhusudhan%20Chandar&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20LLM%20Security%20%C2%B7%20Cloud%20Security%20%C2%B7%20Edge%20AI&descAlignY=62&descSize=18&animation=twinkling" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&height=40&lines=Associate+Consultant+%40+Oracle+%E2%80%94+IAM+%26+OCI+Security;Built+Sentinel%3A+adversarial+LLM+firewall+with+14ms+CPU+inference;Elysium%3A+58.4%25+token+reduction+%C2%B7+94.8%25+semantic+fidelity;YOLOv11n+on+Qualcomm+6115+%26+Jetson+Nano+%E2%80%94+0.84+mAP%400.5;Red-teaming+LLMs.+Hardening+clouds.+Shipping+to+the+edge." alt="Typing SVG" /></a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1400&color=A78BFA&center=true&vCenter=true&width=720&lines=58.4%25+token+reduction+%C2%B7+94.8%25+semantic+fidelity+%E2%80%94+production+deployed;Adversarial+LLM+defense+%E2%80%94+95%25%2B+accuracy+on+prompt+injection+attacks;Edge+AI+on+Qualcomm+6115+%26+NVIDIA+Jetson+Nano+%E2%80%94+real-time+inference;Multi-agent+orchestration+%C2%B7+RAG+systems+%C2%B7+LLM+safety+pipelines)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Madhu-014&label=&color=A78BFA&style=flat-square" />
+![Profile Views](https://komarev.com/ghpvc/?username=Madhu-014&label=Profile%20Views&color=A78BFA&style=for-the-badge)
+![Location](https://img.shields.io/badge/Bengaluru-India-302b63?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Associate%20Consultant-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Open To](https://img.shields.io/badge/Interests-LLM%20Security%20%7C%20Edge%20AI-A78BFA?style=for-the-badge)
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"/>
+## 👋 About Me
 
 ```yaml
-name    : Madhusudhan Chandar
-role    : AI Engineer
-where   : Bengaluru, India
-
-now:
-  - Project Intern @ Oracle Corporation
-    LLM Security · Multi-Agent Pipelines · RAG Systems
-
-  - AI/ML Intern @ EdgeVerse India
-    Edge AI · ARAS · Qualcomm 6115 · NVIDIA Jetson Nano
-
-domains :
-  - Agentic AI & Multi-Agent Orchestration
+name      : Madhusudhan Chandar
+role      : Associate Consultant @ Oracle (IAM & OCI Security)
+location  : Bengaluru, India
+education : B.E. CSE (AI & ML) · CMR Institute of Technology · CGPA 9.02 / 10
+focus     :
   - LLM Security & Adversarial Robustness
-  - Computer Vision & Real-Time Inference
-  - Green AI & Inference Optimization
-
-education : B.E. CSE (AI & ML) · CMRIT Bangalore · 9.03 GPA
+  - Multi-Agent Systems & Prompt Firewalls
+  - Edge AI & Real-Time Computer Vision
+  - Cloud / IAM Security on OCI
+currently : Securing cloud tenancies by day, red-teaming LLM gateways by night
 ```
-
-<br clear="right"/>
 
 ---
 
-## ⚡ Projects
+## 💼 Experience
+
+<table>
+<tr>
+<td width="140" align="center"><b>Jul 2026 – Now</b></td>
+<td>
+
+**Associate Consultant · Oracle**
+- Own IAM and OCI security remediation for **Qatar Foundation** end to end, from design to implementation
+- Configured **OCI Cloud Guard** for continuous misconfiguration and threat detection, with posture dashboards for stakeholders
+- Python automation over **Oracle Fusion & PeopleSoft APIs** to audit BPM/SOA changes and validate segregation of duties, with auditor-ready reports
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Jan – Jul 2026</b></td>
+<td>
+
+**Project Intern · Oracle**
+- Architected the initial **Prompt Firewall** and presented it to Oracle management
+- Built a **multi-agent Oracle Access Governance** system that generates CRUD operation templates from request/response JSON schemas
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Jul 2025 – Jan 2026</b></td>
+<td>
+
+**AI/ML Intern · EdgeVerse India**
+- Fine-tuned **YOLOv11n** for rider-assistance (ARAS) with structured pruning + post-training quantization
+- Deployed on **Qualcomm 6115** and **NVIDIA Jetson Nano**: **0.84 mAP@0.5**, real-time
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Oct – Dec 2025</b></td>
+<td>
+
+**Student Trainee · Bosch Global Software Technologies**
+- Real-time vehicle speed tracking + license plate recognition (YOLOv8, DeepSORT, EasyOCR)
+- ~90% plate accuracy, speed within ±5 km/h; earned a **Letter of Recommendation** from the Head of CoE
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Elysium — Green AI Middleware](https://elysium-7k65.vercel.app)
+### 🛡️ [Sentinel — Adversarial LLM Firewall](https://github.com/Madhu-014/Sentinel)
 
-Semantic prompt compression middleware. Intercepts LLM API calls and compresses before cloud dispatch — drop-in compatible with LangChain and AutoGen.
+Asynchronous multi-tier gateway that screens prompts in real time and escalates uncertain ones to an LLM Judge.
 
 ```
-Token Reduction   →  58.4%
-Semantic Fidelity →  94.8%
-Cache Resolution  →  < 25ms
-Serverless Size   →  22 MB
+Classifier  →  DeBERTa-v3-small (ONNX INT8)
+Latency     →  14 ms on CPU
+Memory      →  -70% footprint
+Red-team    →  15/15 caught, 0 false positives
 ```
 
-`ONNX` `LangChain` `FastAPI` `SQLite` `Vercel`
+`FastAPI` `Redis HNSW` `RabbitMQ` `Kafka` `Cassandra` `ONNX`
 
-[![Live](https://img.shields.io/badge/Live-elysium--7k65.vercel.app-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://elysium-7k65.vercel.app)
+Traced a cross-lingual *Asymmetric Trust* flaw through classifier-vs-Judge disagreement telemetry, then fixed it with prompt hardening.
 
 </td>
 <td width="50%" valign="top">
 
-### [Aura-G4 — Offline Disaster Response AI](https://github.com/Madhu-014/Aura-G4)
+### 🌱 [Elysium — Green AI Middleware](https://elysium-7k65.vercel.app)
 
-Fully offline multimodal disaster-response system. Built solo for the Kaggle Gemma 4 Good Hackathon. Zero cloud dependency — runs entirely on Mac M2.
+Semantic prompt compression that intercepts LLM calls before cloud dispatch. Drop-in for LangChain and AutoGen.
 
 ```
-Model     →  Gemma 4 via Ollama
-Firewall  →  DeBERTa LoRA (neural)
-Memory    →  ChromaDB RAG pipeline
-Stack     →  Next.js + FastAPI
+Token Reduction   →  58.4%
+Semantic Fidelity →  94.8%
+Backend Size      →  22 MB
+Telemetry         →  live CO2 / kWh
 ```
 
-`Gemma 4` `Ollama` `LoRA` `ChromaDB` `Next.js`
+`ONNX` `LangChain` `FastAPI` `Next.js` `Vercel`
 
-[![Repo](https://img.shields.io/badge/GitHub-Aura--G4-A78BFA?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhu-014/Aura-G4)
+[![Live](https://img.shields.io/badge/Live%20Demo-elysium--7k65.vercel.app-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://elysium-7k65.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🆘 [Aura-G4 — Offline Disaster Response AI](https://github.com/Madhu-014/Aura-G4)
+
+Fully offline multimodal disaster-response system, built solo for the Kaggle Gemma 4 Good Hackathon. Zero cloud dependency, runs entirely on a Mac M2.
+`Gemma 4` `Ollama` `DeBERTa LoRA` `ChromaDB` `Next.js` `FastAPI`
 
 </td>
 </tr>
@@ -90,48 +139,73 @@ Stack     →  Next.js + FastAPI
 
 <div align="center">
 
-| Agentic AI | LLM Security | Computer Vision | Edge & Systems |
+| 🤖 Agentic AI | 🔐 LLM & Cloud Security | 👁️ Computer Vision | ⚙️ Edge & Systems |
 |:---|:---|:---|:---|
-| Multi-Agent Orchestration | Adversarial Robustness | YOLOv8 / YOLOv11 | Qualcomm 6115 |
-| RAG Systems | Prompt Injection Defense | Object Detection & Tracking | NVIDIA Jetson Nano |
-| LangChain · AutoGen | Fine-tuning · RLHF | Real-Time CV Pipelines | PTQ · Pruning |
-| Tool-Use & Planning | Jailbreak Evaluation | OpenCV · EasyOCR | ONNX · Edge Deploy |
+| Multi-Agent Orchestration | Prompt Injection Defense | YOLOv8 / YOLOv11 | Qualcomm 6115 |
+| LangChain · AutoGen | Adversarial Robustness | Tracking · OCR | NVIDIA Jetson Nano |
+| Prompt Firewalls | Red-Teaming & Jailbreak Eval | OpenCV · DeepSORT | Pruning · INT8 PTQ |
+| MLOps Pipelines | OCI IAM · Cloud Guard | Real-Time Inference | ONNX · Kafka · Redis |
 
 </div>
 
 ---
 
-## 🛠 Stack
+## 🛠 Tech Stack
 
 <div align="center">
-<p>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+<br/>
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IAM](https://img.shields.io/badge/OCI%20IAM-312D2A?style=for-the-badge&logo=oracle&logoColor=white)
+![Cloud Guard](https://img.shields.io/badge/Cloud%20Guard-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudhan-chandar-581b49309)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhu-014&show_icons=true&theme=radical&hide_border=true&bg_color=0:0f0c29,100:302b63&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&ring_color=A78BFA" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhu-014&layout=compact&theme=radical&hide_border=true&bg_color=0:0f0c29,100:302b63&title_color=A78BFA&text_color=ffffff" />
+
+<img src="https://streak-stats.demolab.com?user=Madhu-014&theme=radical&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhu-014&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudhan-chandar)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhusudhan.chandar@gmail.com)
 [![Elysium](https://img.shields.io/badge/Elysium-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://elysium-7k65.vercel.app)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:A78BFA&height=120&section=footer&animation=twinkling" />
 
 </div>
